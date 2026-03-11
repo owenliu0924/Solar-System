@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.18](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.18) - 2026-03-11
+## 🏷️ [0.1.19](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.19) - 2026-03-11
 
 
 
@@ -22,7 +22,38 @@
 <summary>📝 1 commit(s)</summary>
 
 
+#### 🚀 Features
+
+- Update .env.example [`1d5f0ed`](https://github.com/SunriseCommunity/Solar-System/commit/1d5f0ed0172762e8617bb5acab59b5621b6744ab)
+
+
+</details>
+
+
+
+
+
+
+**Full Changelog**: [`v0.1.18...v0.1.19`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.18...v0.1.19)
+
+## 🏷️ [0.1.18](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.18) - 2026-03-11
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`da19dd0`](https://github.com/SunriseCommunity/Solar-System/commit/da19dd0f47f796deb77389422f22ba8cba02f13f)
 
 - update submodules [`6bb2d43`](https://github.com/SunriseCommunity/Solar-System/commit/6bb2d43345f1ae1a92cc20d8f2bcf71090bba161)
 
