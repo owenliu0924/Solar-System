@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.20](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.20) - 2026-03-11
+## 🏷️ [0.1.21](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.21) - 2026-03-11
 
 
 
@@ -22,9 +22,48 @@
 <summary>📝 1 commit(s)</summary>
 
 
+#### 🔀 Merge Commits
+
+- [chore] Merge Branch 'main' of https://github.com/SunriseCommunity/Solar-System [`051f068`](https://github.com/SunriseCommunity/Solar-System/commit/051f06851380bad41011d2bced1fe2784317653a)
+
+
+</details>
+
+
+
+
+
+
+**Full Changelog**: [`v0.1.20...v0.1.21`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.20...v0.1.21)
+
+## 🏷️ [0.1.20](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.20) - 2026-03-11
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 3 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Update Sunset.Dockerfile [`58d7913`](https://github.com/SunriseCommunity/Solar-System/commit/58d79131091106df8c0fe5040cb16af32334a8fa)
+
+
 #### 🐛 Bug Fixes
 
 - docker container args [`ae7cba2`](https://github.com/SunriseCommunity/Solar-System/commit/ae7cba21ab66068493c0d0aa6b9808d2ec18f0a1)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`bd983a4`](https://github.com/SunriseCommunity/Solar-System/commit/bd983a41a6cdc4b9dae2a125b7e44b86ddcf2708)
 
 
 </details>
