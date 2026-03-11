@@ -7,6 +7,86 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.16](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.16) - 2026-03-11
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Update Sunrise.Config.Production.json.example [`e9eb38b`](https://github.com/SunriseCommunity/Solar-System/commit/e9eb38b23ec000530b098977914a09571326255b)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`863ae7a`](https://github.com/SunriseCommunity/Solar-System/commit/863ae7a7f4f25fb10bdd7360b096eb04e753ffad)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Add Option To Only Allow Current Osu Versions by @richardscull in [#108](https://github.com/SunriseCommunity/Sunrise/pull/108)
+- [dependency] Update Osu Packages by @richardscull in [#107](https://github.com/SunriseCommunity/Sunrise/pull/107)
+
+
+
+
+<details>
+<summary>📝 9 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Update README.md [`421524e`](https://github.com/SunriseCommunity/Sunrise/commit/421524e1952b8595f00cad28a1ed106d4651c592)
+
+- Add version refresh lock [`790ce61`](https://github.com/SunriseCommunity/Sunrise/commit/790ce61e560d439cf347c510a6733d393d63255d)
+
+- Update README.md [`0e1fe9f`](https://github.com/SunriseCommunity/Sunrise/commit/0e1fe9f811b157f268edb2c69081d9520b67c498)
+
+- Add tests [`2221a96`](https://github.com/SunriseCommunity/Sunrise/commit/2221a963d74b37c16e43f8fd375e42dc761855b2)
+
+- Add refreshosuversions command [`48462d0`](https://github.com/SunriseCommunity/Sunrise/commit/48462d0ab0e49db600fab3c675742a8fc16bed19)
+
+- Add osu version validation [`58c0585`](https://github.com/SunriseCommunity/Sunrise/commit/58c058523b567907987901ad70649567107db3a3)
+
+- Add mods shorted for mirror mod [`291fc45`](https://github.com/SunriseCommunity/Sunrise/commit/291fc4564c0c4ca4d6f19243d9529eb0e3f2b5f5)
+
+- [dependency] Update HoLLy.osu.HOPEless package [`ceaac28`](https://github.com/SunriseCommunity/Sunrise/commit/ceaac28d09777177406372504f6f158afb81fa1c)
+
+
+##### 💼 Other
+
+- Revise README for migration to Solar System monorepo [`c01e125`](https://github.com/SunriseCommunity/Sunrise/commit/c01e1255c4d12f30c679fb0ec1ad83a86727ddcc)
+
+- Merge pull request #108 from SunriseCommunity/feat/add-option-to-only-allow-current-osu-versions [`61d4352`](https://github.com/SunriseCommunity/Sunrise/commit/61d43524885b4d17c1f1f9c6513a7448752c23b7)
+
+- Merge pull request #107 from SunriseCommunity/feat/bump-osu-packages [`7526051`](https://github.com/SunriseCommunity/Sunrise/commit/7526051338bdb72df0e923ead8364dcafc96c573)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.15...v0.1.16`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.15...v0.1.16)
+
 ## 🏷️ [0.1.15](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.15) - 2026-02-28
 
 
@@ -19,12 +99,17 @@
 
 
 <details>
-<summary>📝 1 commit(s)</summary>
+<summary>📝 2 commit(s)</summary>
 
 
 #### 🚀 Features
 
 - Add binlog expire logs to 1 day [`5fddd7b`](https://github.com/SunriseCommunity/Solar-System/commit/5fddd7b93ad9be005c6cef9c2362d0061f995ada)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`9eb983e`](https://github.com/SunriseCommunity/Solar-System/commit/9eb983e71d25ab540fc22da9571815a2f7e519fb)
 
 
 </details>
