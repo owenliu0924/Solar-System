@@ -9,9 +9,7 @@ NC='\033[0m'
 
 echo -e "${GREEN}Fetching example configuration files...${NC}"
 
-SUNRISE_URL="https://raw.githubusercontent.com/SunriseCommunity/Sunrise/feat/better-telemetry/Sunrise.Server/appsettings.Production.json.example"
-# TODO: Update to main branch when it is merged
-#SUNRISE_URL="https://raw.githubusercontent.com/SunriseCommunity/Sunrise/refs/heads/master/Sunrise.Server/appsettings.Production.json.example"
+SUNRISE_URL="https://raw.githubusercontent.com/SunriseCommunity/Sunrise/refs/heads/master/Sunrise.Server/appsettings.Production.json.example"
 
 SUNRISE_DEST="Sunrise.Config.Production.json.example"
 
