@@ -7,6 +7,97 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.27](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.27) - 2026-03-21
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 3 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Add new observatory env value [`9e87f62`](https://github.com/SunriseCommunity/Solar-System/commit/9e87f623df02446519d7cbdc9aa08a7137a35801)
+
+- Update healthcheck for postgres [`c03aaf6`](https://github.com/SunriseCommunity/Solar-System/commit/c03aaf605e2c4b0b9adbc59da96737aab48ed107)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`d2513c6`](https://github.com/SunriseCommunity/Solar-System/commit/d2513c62cb4cb99f6dc7b4020764a9016b4af130)
+
+
+</details>
+
+
+
+
+### 🔭 Observatory
+
+
+#### 🔀 Pull Requests
+
+- Add Get Beatmap By Filename by @richardscull in [#14](https://github.com/SunriseCommunity/Observatory/pull/14)
+- Improve Bancho Support by @richardscull in [#13](https://github.com/SunriseCommunity/Observatory/pull/13)
+- Add Us Catboy Server Change by @richardscull in [#12](https://github.com/SunriseCommunity/Observatory/pull/12)
+
+
+
+
+<details>
+<summary>📝 9 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- add tests [`2472c9c`](https://github.com/SunriseCommunity/Observatory/commit/2472c9c54268fd61dddd7da228f1ee397537c3d3)
+
+- Add get beatmap by filename [`890c338`](https://github.com/SunriseCommunity/Observatory/commit/890c3385e6544ec9f5f516a578722fa7764f9e56)
+
+- Prioritise one single mirror for a chain of search requests [`88fd945`](https://github.com/SunriseCommunity/Observatory/commit/88fd94520471950820e009418eeb6028b7ec6661)
+
+- Add bancho search support [`92b1ae4`](https://github.com/SunriseCommunity/Observatory/commit/92b1ae42abefb48be4551f7466efbd42d255aad8)
+
+- Add bancho support for GetBeatmapByHash [`6f899f0`](https://github.com/SunriseCommunity/Observatory/commit/6f899f0319d3b9e2ab1ed1453252580f2c1f7311)
+
+- fix test flakiness [`f567ec9`](https://github.com/SunriseCommunity/Observatory/commit/f567ec9921d2b9e922371ae8a22be3f15bd0c8eb)
+
+- Add support for USE_US_CATBOY_SERVER_ONLY [`d1c18ac`](https://github.com/SunriseCommunity/Observatory/commit/d1c18ac76723d7a18d858d1ce5035ba50a4c678e)
+
+
+##### 🐛 Bug Fixes
+
+- flanky test [`333a0bc`](https://github.com/SunriseCommunity/Observatory/commit/333a0bc0fb3e86c303356de1df04628196bf72d9)
+
+
+##### 💼 Other
+
+- Merge pull request #14 from SunriseCommunity/feat/add-get-beatmap-by-filename [`3236701`](https://github.com/SunriseCommunity/Observatory/commit/3236701fefea53217f34348aa03756456fc21595)
+
+- Merge pull request #13 from SunriseCommunity/feat/improve-bancho-support [`ef104f4`](https://github.com/SunriseCommunity/Observatory/commit/ef104f4aca6ac0af15b7420cd0fb30207ab55250)
+
+- Merge pull request #12 from SunriseCommunity/feat/add-us-catboy-server-change [`ff6d83e`](https://github.com/SunriseCommunity/Observatory/commit/ff6d83eb58216a5429492ceb91a968e79853e4e7)
+
+
+##### ⚙️ Miscellaneous Tasks
+
+- Update healthcheck for postgres [`5219e85`](https://github.com/SunriseCommunity/Observatory/commit/5219e85c31cf7ab75118da44c204a0d644d8f9a0)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.26...v0.1.27`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.26...v0.1.27)
+
 ## 🏷️ [0.1.26](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.26) - 2026-03-20
 
 
@@ -19,10 +110,12 @@
 
 
 <details>
-<summary>📝 1 commit(s)</summary>
+<summary>📝 2 commit(s)</summary>
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`7098c90`](https://github.com/SunriseCommunity/Solar-System/commit/7098c9019ed6b0dac077b8778a80a0252a968fdf)
 
 - update submodules [`97fc5c3`](https://github.com/SunriseCommunity/Solar-System/commit/97fc5c39b215951b24fba15ddabc578f43c51d73)
 
