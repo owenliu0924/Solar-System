@@ -7,6 +7,53 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.28](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.28) - 2026-03-21
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`0a55db2`](https://github.com/SunriseCommunity/Solar-System/commit/0a55db28b4159360225346ed4baf1432e2529d82)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- update api response objects for observatory [`7a9b9ed`](https://github.com/SunriseCommunity/Sunrise/commit/7a9b9ed8f595933b3fd16cb7584a56b29ab9b04e)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.27...v0.1.28`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.27...v0.1.28)
+
 ## 🏷️ [0.1.27](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.27) - 2026-03-21
 
 
@@ -19,7 +66,7 @@
 
 
 <details>
-<summary>📝 3 commit(s)</summary>
+<summary>📝 4 commit(s)</summary>
 
 
 #### 🚀 Features
@@ -30,6 +77,8 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`f4bc5e8`](https://github.com/SunriseCommunity/Solar-System/commit/f4bc5e8ed7484e701c281bbed048bb62b3bf835e)
 
 - update submodules [`d2513c6`](https://github.com/SunriseCommunity/Solar-System/commit/d2513c62cb4cb99f6dc7b4020764a9016b4af130)
 
