@@ -7,6 +7,53 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
+## 🏷️ [0.1.34](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.34) - 2026-03-26
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update submodules [`2e45367`](https://github.com/SunriseCommunity/Solar-System/commit/2e45367f2f0f218877f3e78faf32b864facede74)
+
+
+</details>
+
+
+
+
+### 🔭 Observatory
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- disable search result inserting into the database [`7f0b3d0`](https://github.com/SunriseCommunity/Observatory/commit/7f0b3d0e8148a696b3e68c13a1ad8fb14e78a00f)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.33...v0.1.34`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.33...v0.1.34)
+
 ## 🏷️ [0.1.33](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.33) - 2026-03-26
 
 
@@ -19,7 +66,7 @@
 
 
 <details>
-<summary>📝 2 commit(s)</summary>
+<summary>📝 3 commit(s)</summary>
 
 
 #### 🚀 Features
@@ -28,6 +75,8 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`969b8f8`](https://github.com/SunriseCommunity/Solar-System/commit/969b8f8e63583ab70776c5ef8fcec5f7058dba29)
 
 - update submodules [`1b60803`](https://github.com/SunriseCommunity/Solar-System/commit/1b6080368c8ccbf00f4882a8b138c8db3963015b)
 
