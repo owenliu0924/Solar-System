@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.36](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.36) - 2026-03-31
+## 🏷️ [0.1.37](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.37) - 2026-03-31
 
 
 
@@ -23,6 +23,64 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`4f4fa68`](https://github.com/SunriseCommunity/Solar-System/commit/4f4fa687c036551d5f594cff25b2e43774bebe56)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Invalidate Tables One By One by @richardscull in [#117](https://github.com/SunriseCommunity/Sunrise/pull/117)
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- invalidate table one by one [`46d23d7`](https://github.com/SunriseCommunity/Sunrise/commit/46d23d7ca763725a2bea68f7c94e1ee172b7091b)
+
+
+##### 💼 Other
+
+- Merge pull request #117 from SunriseCommunity/fix/invalidate-tables-one-by-one [`1c18e58`](https://github.com/SunriseCommunity/Sunrise/commit/1c18e58127d9b51a9bbc75ac6508a6198b440e4d)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.36...v0.1.37`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.36...v0.1.37)
+
+## 🏷️ [0.1.36](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.36) - 2026-03-31
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`e363b73`](https://github.com/SunriseCommunity/Solar-System/commit/e363b7370bef20450b8ed64449ad025b6a25c56f)
 
 - update submodules [`9cd4938`](https://github.com/SunriseCommunity/Solar-System/commit/9cd49383e938aa4a1e0f1bc4bb942b3ec437e40e)
 
