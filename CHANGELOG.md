@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.37](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.37) - 2026-03-31
+## 🏷️ [0.1.38](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.38) - 2026-04-09
 
 
 
@@ -23,6 +23,55 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`695cfb3`](https://github.com/SunriseCommunity/Solar-System/commit/695cfb302557b1a0a0f42d6c3a9176f32427fd21)
+
+
+</details>
+
+
+
+
+### 🌇 Sunset
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- typo [`8d02973`](https://github.com/SunriseCommunity/Sunset/commit/8d0297364370037b680c6100bb16820eead6f2d3)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.37...v0.1.38`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.37...v0.1.38)
+
+## 🏷️ [0.1.37](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.37) - 2026-03-31
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`7e3bf81`](https://github.com/SunriseCommunity/Solar-System/commit/7e3bf81dbad1e55ce4c3d28d2cbcea61c46a56fd)
 
 - update submodules [`4f4fa68`](https://github.com/SunriseCommunity/Solar-System/commit/4f4fa687c036551d5f594cff25b2e43774bebe56)
 
