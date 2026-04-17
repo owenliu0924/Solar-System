@@ -5,3 +5,6 @@ database
 
 update.sh
 update.bat
+
+caddy_data
+caddy_config
