@@ -1,31 +1,45 @@
+{
+    auto_https off
+    auto_https disable_redirects
+}
+
 # Sunrise
-b.{$WEB_DOMAIN},
-c.{$WEB_DOMAIN},
-cho.{$WEB_DOMAIN},
-c4.{$WEB_DOMAIN},
-a.{$WEB_DOMAIN},
-api.{$WEB_DOMAIN},
-osu.{$WEB_DOMAIN},
-assets.{$WEB_DOMAIN} {
-    reverse_proxy localhost:{$SUNRISE_SERVER_PORT:3912}
+http://b.{$WEB_DOMAIN},
+http://c.{$WEB_DOMAIN},
+http://cho.{$WEB_DOMAIN},
+http://c4.{$WEB_DOMAIN},
+http://a.{$WEB_DOMAIN},
+http://api.{$WEB_DOMAIN},
+http://osu.{$WEB_DOMAIN},
+http://assets.{$WEB_DOMAIN} {
+    reverse_proxy sunrise-server:5147 {
+        header_up X-Forwarded-For {http.request.header.CF-Connecting-IP}
+        header_up X-Real-IP {http.request.header.CF-Connecting-IP}
+    }
 }
 
 # Sunset
-{$WEB_DOMAIN} {
-    reverse_proxy localhost:{$SUNSET_PORT:3090}
+http://{$WEB_DOMAIN} {
+    reverse_proxy sunset-website:3000 {
+        header_up X-Forwarded-For {http.request.header.CF-Connecting-IP}
+        header_up X-Real-IP {http.request.header.CF-Connecting-IP}
+    }
 }
 
 # Grafana - Statistics Dashboard
-# grafana.{$WEB_DOMAIN} {
-#     reverse_proxy localhost:{$GRAFANA_PORT:3060}
+# http://grafana.{$WEB_DOMAIN} {
+#    reverse_proxy grafana:3000
 # }
 
 # # Observatory
-# observatory.{$WEB_DOMAIN} {
-#     reverse_proxy localhost:{$OBSERVATORY_PORT:3333}
+# http://observatory.{$WEB_DOMAIN} {
+#    reverse_proxy observatory:3000 {
+#         header_up X-Forwarded-For {http.request.header.CF-Connecting-IP}
+#         header_up X-Real-IP {http.request.header.CF-Connecting-IP}
+#    }
 # }
 
 # # Uptime Kuma
-# uptime.{$WEB_DOMAIN} {
-#     reverse_proxy localhost:{$UPTIME_KUMA_PORT:3001}
+# http://uptime.{$WEB_DOMAIN} {
+#    reverse_proxy uptime-kuma:3001
 # }
