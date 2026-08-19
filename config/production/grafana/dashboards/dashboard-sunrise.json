@@ -1132,7 +1132,7 @@
           },
           "editorMode": "code",
           "exemplar": false,
-          "expr": "container_memory_usage_bytes{container_label_com_docker_compose_project=~\"osu-sunrise-infrastructure\"}  / 1024 / 1024",
+          "expr": "container_memory_working_set_bytes{\r\n  container_label_com_docker_compose_project=~\"osu-sunrise-infrastructure\"\r\n} / 1024 / 1024",
           "instant": false,
           "legendFormat": "{{name}}",
           "range": true,
@@ -1500,5 +1500,5 @@
   "timezone": "browser",
   "title": "Sunrise Server dashboard",
   "uid": "adqvxt9",
-  "version": 114
+  "version": 1
 }
