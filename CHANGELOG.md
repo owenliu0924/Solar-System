@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.40](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.40) - 2026-05-12
+## 🏷️ [0.1.43](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.43) - 2026-06-18
 
 
 
@@ -23,6 +23,172 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`8aadd16`](https://github.com/SunriseCommunity/Solar-System/commit/8aadd1666d857fe64da887083317d97fa175fe28)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- Add missing Configuration.cs changes [`2be95a8`](https://github.com/SunriseCommunity/Sunrise/commit/2be95a878a0b5b8f7d902e34533c2469024bcb8a)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.42...v0.1.43`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.42...v0.1.43)
+
+## 🏷️ [0.1.42](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.42) - 2026-06-18
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`ffc2e95`](https://github.com/SunriseCommunity/Solar-System/commit/ffc2e95362dbee5197aa0a32825ee1e1e9028791)
+
+- update submodules [`1606476`](https://github.com/SunriseCommunity/Solar-System/commit/1606476b9ed65b5d4fb37954540d7b62868eef74)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Use osu.direct as default mirror for redirect beatmap set download; Add option to select your own mirror; [`0deca5a`](https://github.com/SunriseCommunity/Sunrise/commit/0deca5afa3619e3f50a6dbde312c3d2f15119c69)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.41...v0.1.42`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.41...v0.1.42)
+
+## 🏷️ [0.1.41](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.41) - 2026-06-02
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 3 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Lock major tempo version [`ec8304d`](https://github.com/SunriseCommunity/Solar-System/commit/ec8304d517a90e737b69f0129bfdfcf69068c2a8)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`f57ae61`](https://github.com/SunriseCommunity/Solar-System/commit/f57ae61a7202eaf4d191e40f89d7893a9293614f)
+
+- update submodules [`0416d06`](https://github.com/SunriseCommunity/Solar-System/commit/0416d065d0894be4e132eab831b7bcaa50f53e89)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Improve Tests Workflow by @richardscull in [#122](https://github.com/SunriseCommunity/Sunrise/pull/122)
+
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- improve tests workflow [`dfdcb56`](https://github.com/SunriseCommunity/Sunrise/commit/dfdcb56bcb410dc91f1209c86391277d5a4ed200)
+
+
+##### 🐛 Bug Fixes
+
+- docker configuration [`6a98a46`](https://github.com/SunriseCommunity/Sunrise/commit/6a98a467656dea7b5f3376c4d212e16082dbba27)
+
+
+##### 💼 Other
+
+- Merge pull request #122 from SunriseCommunity/feat/improve-tests-workflow [`bf82a9e`](https://github.com/SunriseCommunity/Sunrise/commit/bf82a9ebfdccfcb2bb1aac12d63c659f019920ed)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.40...v0.1.41`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.40...v0.1.41)
+
+## 🏷️ [0.1.40](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.40) - 2026-05-12
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`3de0e9f`](https://github.com/SunriseCommunity/Solar-System/commit/3de0e9f0c58e8e262fa22f431a444afa2260cf16)
 
 - update submodules [`cd54805`](https://github.com/SunriseCommunity/Solar-System/commit/cd548057b2d8366060956648776fd0c4088d015f)
 
