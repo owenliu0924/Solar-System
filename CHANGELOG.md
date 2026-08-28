@@ -7,7 +7,7 @@
 ![changelog-image](https://github.com/SunriseCommunity/Solar-System/blob/main/.github/changelog_prev.png?raw=true)
 
 
-## 🏷️ [0.1.38](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.38) - 2026-04-09
+## 🏷️ [0.1.43](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.43) - 2026-06-18
 
 
 
@@ -23,6 +23,356 @@
 
 
 #### ⚙️ Miscellaneous Tasks
+
+- update submodules [`8aadd16`](https://github.com/SunriseCommunity/Solar-System/commit/8aadd1666d857fe64da887083317d97fa175fe28)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🐛 Bug Fixes
+
+- Add missing Configuration.cs changes [`2be95a8`](https://github.com/SunriseCommunity/Sunrise/commit/2be95a878a0b5b8f7d902e34533c2469024bcb8a)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.42...v0.1.43`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.42...v0.1.43)
+
+## 🏷️ [0.1.42](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.42) - 2026-06-18
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`ffc2e95`](https://github.com/SunriseCommunity/Solar-System/commit/ffc2e95362dbee5197aa0a32825ee1e1e9028791)
+
+- update submodules [`1606476`](https://github.com/SunriseCommunity/Solar-System/commit/1606476b9ed65b5d4fb37954540d7b62868eef74)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Use osu.direct as default mirror for redirect beatmap set download; Add option to select your own mirror; [`0deca5a`](https://github.com/SunriseCommunity/Sunrise/commit/0deca5afa3619e3f50a6dbde312c3d2f15119c69)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.41...v0.1.42`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.41...v0.1.42)
+
+## 🏷️ [0.1.41](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.41) - 2026-06-02
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 3 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Lock major tempo version [`ec8304d`](https://github.com/SunriseCommunity/Solar-System/commit/ec8304d517a90e737b69f0129bfdfcf69068c2a8)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`f57ae61`](https://github.com/SunriseCommunity/Solar-System/commit/f57ae61a7202eaf4d191e40f89d7893a9293614f)
+
+- update submodules [`0416d06`](https://github.com/SunriseCommunity/Solar-System/commit/0416d065d0894be4e132eab831b7bcaa50f53e89)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Improve Tests Workflow by @richardscull in [#122](https://github.com/SunriseCommunity/Sunrise/pull/122)
+
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- improve tests workflow [`dfdcb56`](https://github.com/SunriseCommunity/Sunrise/commit/dfdcb56bcb410dc91f1209c86391277d5a4ed200)
+
+
+##### 🐛 Bug Fixes
+
+- docker configuration [`6a98a46`](https://github.com/SunriseCommunity/Sunrise/commit/6a98a467656dea7b5f3376c4d212e16082dbba27)
+
+
+##### 💼 Other
+
+- Merge pull request #122 from SunriseCommunity/feat/improve-tests-workflow [`bf82a9e`](https://github.com/SunriseCommunity/Sunrise/commit/bf82a9ebfdccfcb2bb1aac12d63c659f019920ed)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.40...v0.1.41`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.40...v0.1.41)
+
+## 🏷️ [0.1.40](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.40) - 2026-05-12
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`3de0e9f`](https://github.com/SunriseCommunity/Solar-System/commit/3de0e9f0c58e8e262fa22f431a444afa2260cf16)
+
+- update submodules [`cd54805`](https://github.com/SunriseCommunity/Solar-System/commit/cd548057b2d8366060956648776fd0c4088d015f)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- [dependency] Update Opentelemetry by @richardscull in [#121](https://github.com/SunriseCommunity/Sunrise/pull/121)
+- General Multiplayer Fixes by @richardscull in [#120](https://github.com/SunriseCommunity/Sunrise/pull/120)
+
+
+
+
+<details>
+<summary>📝 11 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- bump opentelemetry packages [`900666e`](https://github.com/SunriseCommunity/Sunrise/commit/900666e2021e6ba065a3283e47905e52c7dd3752)
+
+- Don't announce match creation if we couldnt create it [`7969302`](https://github.com/SunriseCommunity/Sunrise/commit/7969302a6868a4043c4de3cbde06b40e682369b1)
+
+- gracefully kick players when closing matches [`92ba3cb`](https://github.com/SunriseCommunity/Sunrise/commit/92ba3cb5e21d7e31932a2bbe45039375852b8891)
+
+- Add close inactive multiplayer matches [`49239c6`](https://github.com/SunriseCommunity/Sunrise/commit/49239c62ffba7055cd47f25472de6f656fa428e8)
+
+- Disable hangfire dashboard [`3406c1f`](https://github.com/SunriseCommunity/Sunrise/commit/3406c1f6c1e555e4ba6164f788f39f6d1cd40326)
+
+- Add temp patch fix for size user kick [`c3291a1`](https://github.com/SunriseCommunity/Sunrise/commit/c3291a109cdb84d0ed8f8193751ce46137cd1a27)
+
+- add tests [`a5f2545`](https://github.com/SunriseCommunity/Sunrise/commit/a5f2545c27a4931a1951865560a55cbca105eabd)
+
+- Reuse match id if possible [`0710f38`](https://github.com/SunriseCommunity/Sunrise/commit/0710f382b19c54ebcbebc301d6234486f3e48cc8)
+
+- Remove match if we couldn't add host to the match players [`64b58ae`](https://github.com/SunriseCommunity/Sunrise/commit/64b58ae180d9da195ebb4533983c0ccf8b3bb0b5)
+
+
+##### 🐛 Bug Fixes
+
+- human slop 2 [`e7ac374`](https://github.com/SunriseCommunity/Sunrise/commit/e7ac374c68414d08d7c9f06b865d121a7e1b6118)
+
+- human slop [`52ce197`](https://github.com/SunriseCommunity/Sunrise/commit/52ce197a2d04ce5ffbd6dc67008df7f6adb0d272)
+
+
+##### 💼 Other
+
+- Merge pull request #121 from SunriseCommunity/feat/bump-opentelemetry [`3d8c692`](https://github.com/SunriseCommunity/Sunrise/commit/3d8c692d40e4a357684f7630b44fbc656879e4a3)
+
+- Merge pull request #120 from SunriseCommunity/feat/general-multiplayer-fixes [`e0063fd`](https://github.com/SunriseCommunity/Sunrise/commit/e0063fddeeb50f36971a93368a2b801be1d3fbc8)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.39...v0.1.40`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.39...v0.1.40)
+
+## 🏷️ [0.1.39](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.39) - 2026-04-20
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 7 commit(s)</summary>
+
+
+#### 🚀 Features
+
+- Add generate-database scripts and improve scripts security [`e58f77f`](https://github.com/SunriseCommunity/Solar-System/commit/e58f77f6920dfb1f1986a577e183f938b5da8a66)
+
+- Don't expose port DBs by default [`44423dc`](https://github.com/SunriseCommunity/Solar-System/commit/44423dcb19791f915f73c5345125c2475f8941e1)
+
+- Setup NEXT_PUBLIC_UNOPTIMIZED_IMAGES for local instances [`efc1af1`](https://github.com/SunriseCommunity/Solar-System/commit/efc1af1bca79a4de3308ef5acb8e54e1991babcc)
+
+
+#### 🔀 Merge Commits
+
+- [chore] Merge Branch 'main' of https://github.com/SunriseCommunity/Solar-System [`34b0e56`](https://github.com/SunriseCommunity/Solar-System/commit/34b0e56c4ec2897abefbaf3b59223fe02cd9f777)
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`33af3fe`](https://github.com/SunriseCommunity/Solar-System/commit/33af3fec344e3569b26fea959cb4623cdc8e23c2)
+
+- update submodules [`aedae6b`](https://github.com/SunriseCommunity/Solar-System/commit/aedae6bbefb19e80232acedecc971509b51ce4a4)
+
+- Update README.md [`666b7e8`](https://github.com/SunriseCommunity/Solar-System/commit/666b7e8bbdca6ba546d3bddfdb62f3e6b47e7d54)
+
+
+</details>
+
+
+
+
+### 🌅 Sunrise
+
+
+#### 🔀 Pull Requests
+
+- Use Tar Gz Backup by @richardscull in [#118](https://github.com/SunriseCommunity/Sunrise/pull/118)
+
+
+
+
+<details>
+<summary>📝 1 commit(s)</summary>
+
+
+##### 🚀 Features
+
+- Use tag gz based backups [`3054ea5`](https://github.com/SunriseCommunity/Sunrise/commit/3054ea52380ac521a95c53e7a4e86e9c53301daf)
+
+
+##### 💼 Other
+
+- Merge pull request #118 from SunriseCommunity/feat/use-tar-gz-backup [`29ba611`](https://github.com/SunriseCommunity/Sunrise/commit/29ba611a899cc6283d8d19bd929e53d373569bc0)
+
+
+</details>
+
+
+### 🌇 Sunset
+
+
+#### 🔀 Pull Requests
+
+- Patch 1 by @richardscull in [#43](https://github.com/SunriseCommunity/Sunset/pull/43)
+
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+##### 💼 Other
+
+- Merge pull request #43 from miniblack0662/patch-1 [`6fde152`](https://github.com/SunriseCommunity/Sunset/commit/6fde152c32220c31ab64e2a99ab4a9dea967b0b0)
+
+- Update UserSocials.tsx [`c887fc8`](https://github.com/SunriseCommunity/Sunset/commit/c887fc8987e9abf02d9cdf535f3bd130fa9078a7)
+
+- Update UserSocials.tsx [`bdd4242`](https://github.com/SunriseCommunity/Sunset/commit/bdd42421c6fb75439116daccdc57187ad0d8b149)
+
+
+</details>
+
+
+
+
+**Full Changelog**: [`v0.1.38...v0.1.39`](https://github.com/SunriseCommunity/Solar-System/compare/v0.1.38...v0.1.39)
+
+## 🏷️ [0.1.38](https://github.com/SunriseCommunity/Solar-System/releases/tag/v0.1.38) - 2026-04-09
+
+
+
+
+
+
+### 🚀 Solar System
+
+
+
+<details>
+<summary>📝 2 commit(s)</summary>
+
+
+#### ⚙️ Miscellaneous Tasks
+
+- update CHANGELOG.md and .version [`cdc7477`](https://github.com/SunriseCommunity/Solar-System/commit/cdc7477c01bd761834f81d2979b9df5afb69c29e)
 
 - update submodules [`695cfb3`](https://github.com/SunriseCommunity/Solar-System/commit/695cfb302557b1a0a0f42d6c3a9176f32427fd21)
 
@@ -265,7 +615,7 @@
 
 
 <details>
-<summary>📝 3 commit(s)</summary>
+<summary>📝 4 commit(s)</summary>
 
 
 #### 🚀 Features
@@ -278,6 +628,8 @@
 - update CHANGELOG.md and .version [`969b8f8`](https://github.com/SunriseCommunity/Solar-System/commit/969b8f8e63583ab70776c5ef8fcec5f7058dba29)
 
 - update submodules [`1b60803`](https://github.com/SunriseCommunity/Solar-System/commit/1b6080368c8ccbf00f4882a8b138c8db3963015b)
+
+- update submodules [`6c9d457`](https://github.com/SunriseCommunity/Solar-System/commit/6c9d4575f2e77e6fad509be1257206de30be20e7)
 
 
 </details>
